@@ -11,4 +11,6 @@ https://www.figma.com/file/txGAPM8fwaWbj2anzaPeEG/%C3%96dev-Ki%C5%9Fi-Sayfas%C4%
 ![alt text](<https://raw.githubusercontent.com/cryptosam/rehber/master/projeresim-github/figma-tasarimi.jpg>)
 
 ### Uygulama ve Android Studio:
-![alt text](<https://raw.githubusercontent.com/cryptosam/rehber/master/projeresim-github/android-emulator.jpg>)
+![Uygulama andoid emülatör görünümü](<https://raw.githubusercontent.com/cryptosam/rehber/master/projeresim-github/android-emulator.jpg>)
+
+![Arama sayfası android emülatör görünümü](<https://github.com/cryptosam/rehber/blob/master/projeresim-github/arama-sayfasi.jpg>)
